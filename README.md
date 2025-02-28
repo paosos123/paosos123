@@ -33,9 +33,9 @@ a game developed using GameMaker.
 
 
 
-## Run of the Ancestors
+## Run of the Ancestors [Work as DEVELOPER / PROGRAMMER]
 
-Run & Upgrade [Work as DEVELOPER / PROGRAMMER]
+Run & Upgrade 
 
 ![App Screenshot](https://img.itch.zone/aW1nLzE4ODYzMDMwLnBuZw==/original/54rimO.png)
 
