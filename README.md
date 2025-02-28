@@ -19,7 +19,7 @@ I also work well in teams, and I communicate clearly. I'm always looking to lear
 # MY GAME SHOWCASE 🎮
 
 
-## Project V
+## Project V [Work as DEVELOPER / PROGRAMMER]
 You play as a child who has been brought to the quarantine center without knowing why. The only thing you can do is escape and find a way out. 
 
 ![App Screenshot](https://img.itch.zone/aW1nLzE0MjUwODM1LnBuZw==/315x250%23c/IzuZ0q.png)
@@ -31,11 +31,11 @@ You play as a child who has been brought to the quarantine center without knowin
 I developed and coded all core game systems and managed map design for Project V, 
 a game developed using GameMaker.
 
-[Work as DEVELOPER / PROGRAMMER]
+
 
 ## Run of the Ancestors
 
-Run & Upgrade 
+Run & Upgrade [Work as DEVELOPER / PROGRAMMER]
 
 ![App Screenshot](https://img.itch.zone/aW1nLzE4ODYzMDMwLnBuZw==/original/54rimO.png)
 
@@ -47,8 +47,8 @@ Run & Upgrade
 I developed and coded all core game systems and managed map design for Run of the Ancestors,
 a game developed using Unity.
 
-[Work as DEVELOPER / PROGRAMMER]
-## Little Magic alchemist
+
+## Little Magic alchemist [Work as DEVELOPER / PROGRAMMER]
 
 You will play as a little witch who must embark on a dangerous journey, collecting various elements to upgrade and brew potions.
 
@@ -62,11 +62,10 @@ You will play as a little witch who must embark on a dangerous journey, collecti
 I developed and coded all core game systems and managed map design for Little Magic alchemist,
 a game developed using Unity.
 
-[Work as DEVELOPER / PROGRAMMER]
 
 
 
-## Only Down
+## Only Down [Work as DEVELOPER / PROGRAMMER]
 U control the ball  to dodge obstacles coming our way! and can slow time.
 
 We have to face various obstacles like pizza , pumkin , watermelon and even a microwave!!!
@@ -81,10 +80,10 @@ We have to face various obstacles like pizza , pumkin , watermelon and even a mi
 
 I developed and coded all core game systems and managed map design for Only Down, a game developed using Unity.
 
-[Work as DEVELOPER / PROGRAMMER]
 
 
-## Siam Yarm
+
+## Siam Yarm [Work as DEVELOPER / PROGRAMMER]
 This game is about A boy name Sompong who very interested in Thailand old culture, But It has gone for a long time ago. So he made a time machine to go see it by himself , Then something happened to his time machine. He goes throught the past,the present and the future. He has to find a way out from this whole mass.!
 
 
@@ -94,5 +93,5 @@ This game is about A boy name Sompong who very interested in Thailand old cultur
 
 I coded all core game systems  for Siam Yarm, a game developed using Unity.
 
-[Work as DEVELOPER / PROGRAMMER]
+
 
