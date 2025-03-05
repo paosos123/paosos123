@@ -1,6 +1,6 @@
 
 # Hi! 👋 My name is Suphachok Learmsingam
-I am available for an internship from May 19th, 2025, to August 15th, 2025, for a period of three months.
+# I am available for an internship from May 19th, 2025, to August 15th, 2025, for a period of three months.
 
 ==========================================================
 
