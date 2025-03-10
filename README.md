@@ -29,6 +29,9 @@ You play as a child who has been brought to the quarantine center without knowin
 
 [![twitter](https://img.shields.io/badge/Link-itch.io-blue%20?style=for-the-badge)](https://ichikooo.itch.io/projectv) 
 
+[![twitter](https://img.shields.io/badge/GitHub-purple?style=for-the-badge
+)](https://github.com/paosos123/ProjectV)
+
 I developed and coded all core game systems and managed map design for Project V, 
 a game developed using GameMaker.
 
