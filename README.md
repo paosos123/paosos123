@@ -20,7 +20,7 @@ I also work well in teams, and I communicate clearly. I'm always looking to lear
 # MY GAME SHOWCASE 🎮
 
 
-## Project V [Work as DEVELOPER / PROGRAMMER]
+## Project V [Work as GameDesign / DEVELOPER / PROGRAMMER]
 You play as a child who has been brought to the quarantine center without knowing why. The only thing you can do is escape and find a way out. 
 
 ![App Screenshot](https://img.itch.zone/aW1nLzE0MjUwODM1LnBuZw==/315x250%23c/IzuZ0q.png)
@@ -37,7 +37,7 @@ a game developed using GameMaker.
 
 
 
-## Run of the Ancestors [Work as DEVELOPER / PROGRAMMER]
+## Run of the Ancestors [Work as GameDesign / DEVELOPER / PROGRAMMER]
 
 Run & Upgrade 
 
@@ -52,7 +52,7 @@ I developed and coded all core game systems and managed map design for Run of th
 a game developed using Unity.
 
 
-## Little Magic alchemist [Work as DEVELOPER / PROGRAMMER]
+## Little Magic alchemist [Work as GameDesign / DEVELOPER / PROGRAMMER]
 
 You will play as a little witch who must embark on a dangerous journey, collecting various elements to upgrade and brew potions.
 
@@ -69,7 +69,7 @@ a game developed using Unity.
 
 
 
-## Only Down [Work as DEVELOPER / PROGRAMMER]
+## Only Down [Work as GameDesign / DEVELOPER / PROGRAMMER]
 U control the ball  to dodge obstacles coming our way! and can slow time.
 
 We have to face various obstacles like pizza , pumkin , watermelon and even a microwave!!!
