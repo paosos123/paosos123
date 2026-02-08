@@ -25,7 +25,7 @@ This game is 2D-pixel - Endless run multiplayer game. This game has no teams, ea
 ![App Screenshot](https://img.itch.zone/aW1nLzIxMDgzODYxLmpwZw==/original/p8GDnI.jpg)
 
 
-[![twitter](https://img.shields.io/badge/Link-itch.io-blue%20?style=for-the-badge)](https://ichikooo.itch.io/projectv) 
+[![twitter](https://img.shields.io/badge/Link-itch.io-blue%20?style=for-the-badge)](https://paosos123.itch.io/cat-of-duty-ver02) 
 
 [![twitter](https://img.shields.io/badge/GitHub-purple?style=for-the-badge
 )](https://github.com/paosos123/ProjectV)
