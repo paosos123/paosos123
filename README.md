@@ -28,7 +28,7 @@ This game is 2D-pixel - Endless run multiplayer game. This game has no teams, ea
 [![twitter](https://img.shields.io/badge/Link-itch.io-blue%20?style=for-the-badge)](https://paosos123.itch.io/cat-of-duty-ver02) 
 
 [![twitter](https://img.shields.io/badge/GitHub-purple?style=for-the-badge
-)](https://github.com/paosos123/ProjectV)
+)](https://github.com/paosos123/MeowProject)
 
 I developed and coded all core game systems and managed map design for Project V, 
 a game developed using GameMaker.
