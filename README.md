@@ -30,9 +30,6 @@ This game is 2D-pixel - Endless run multiplayer game. This game has no teams, ea
 [![twitter](https://img.shields.io/badge/GitHub-purple?style=for-the-badge
 )](https://github.com/paosos123/MeowProject)
 
-I developed and coded all core game systems and managed map design for Project V, 
-a game developed using GameMaker.
-
 
 
 ## Project V [Work as GameDesign / DEVELOPER / PROGRAMMER]
