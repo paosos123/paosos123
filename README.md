@@ -19,6 +19,22 @@ I also work well in teams, and I communicate clearly. I'm always looking to lear
 
 # MY GAME SHOWCASE 🎮
 
+## Cat of Duty ver.02 [Work as GameDesign / DEVELOPER / PROGRAMMER]
+This game is 2D-pixel - Endless run multiplayer game. This game has no teams, each player is an enemy and there are also AI dogs as enemies. Survive from them and the last one standing will be the winner.
+
+![App Screenshot]([https://img.itch.zone/aW1nLzE0MjUwODM1LnBuZw==/315x250%23c/IzuZ0q.png](https://img.itch.zone/aW1nLzIxMDgzODYxLmpwZw==/original/p8GDnI.jpg))
+
+
+
+[![twitter](https://img.shields.io/badge/Link-itch.io-blue%20?style=for-the-badge)](https://ichikooo.itch.io/projectv) 
+
+[![twitter](https://img.shields.io/badge/GitHub-purple?style=for-the-badge
+)](https://github.com/paosos123/ProjectV)
+
+I developed and coded all core game systems and managed map design for Project V, 
+a game developed using GameMaker.
+
+
 
 ## Project V [Work as GameDesign / DEVELOPER / PROGRAMMER]
 You play as a child who has been brought to the quarantine center without knowing why. The only thing you can do is escape and find a way out. 
