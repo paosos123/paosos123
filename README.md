@@ -22,8 +22,7 @@ I also work well in teams, and I communicate clearly. I'm always looking to lear
 ## Cat of Duty ver.02 [Work as GameDesign / DEVELOPER / PROGRAMMER]
 This game is 2D-pixel - Endless run multiplayer game. This game has no teams, each player is an enemy and there are also AI dogs as enemies. Survive from them and the last one standing will be the winner.
 
-![App Screenshot]([https://img.itch.zone/aW1nLzE0MjUwODM1LnBuZw==/315x250%23c/IzuZ0q.png](https://img.itch.zone/aW1nLzIxMDgzODYxLmpwZw==/original/p8GDnI.jpg))
-
+![App Screenshot](https://img.itch.zone/aW1nLzIxMDgzODYxLmpwZw==/original/p8GDnI.jpg)
 
 
 [![twitter](https://img.shields.io/badge/Link-itch.io-blue%20?style=for-the-badge)](https://ichikooo.itch.io/projectv) 
