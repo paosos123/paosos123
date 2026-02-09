@@ -16,9 +16,19 @@ I also work well in teams, and I communicate clearly. I'm always looking to lear
 * 🤝  I'm open to collaborating on Open to collaborations on 2D and 3D indie game projects
 
 
+
+
+
+## Hurzana [Work as GameDesign / DEVELOPER / PROGRAMMER]
+This game is 2D-pixel - Endless run multiplayer game. This game has no teams, each player is an enemy and there are also AI dogs as enemies. Survive from them and the last one standing will be the winner.
+
+![App Screenshot](https://img.itch.zone/aW1nLzIxMDgzODYxLmpwZw==/original/p8GDnI.jpg)
+
+
 [![twitter](https://img.shields.io/badge/Click-VdoGameplay-blue)](https://drive.google.com/file/d/1dSJx5oArlH5hMtAvP_nlmIxbwJP-ooW3/view?usp=sharing) 
 
-
+[![twitter](https://img.shields.io/badge/GitHub-purple?style=for-the-badge
+)](https://github.com/paosos123/MeowProject)
 
 # MY GAME SHOWCASE 🎮
 
