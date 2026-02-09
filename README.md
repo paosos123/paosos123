@@ -24,6 +24,7 @@ This game is 2D-pixel platformer  that you can dash
 ![App Screenshot](https://img.itch.zone/aW1hZ2UvNDI3NTExNC8yNTQ4MjYwOS5wbmc=/original/AuTttJ.png)
 
 
+[![twitter](https://img.shields.io/badge/Click-GoogleDriveDownload-blue?style=for-the-badge)](https://drive.google.com/drive/folders/1P-X6U8ZIdC9JfX1OGMVpQB16-l__ObD7?usp=sharing) 
 [![twitter](https://img.shields.io/badge/Click-VdoGameplay-blue)](https://drive.google.com/file/d/1dSJx5oArlH5hMtAvP_nlmIxbwJP-ooW3/view?usp=sharing) 
 
 [![twitter](https://img.shields.io/badge/GitHub-purple?style=for-the-badge
