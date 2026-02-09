@@ -16,7 +16,8 @@ I also work well in teams, and I communicate clearly. I'm always looking to lear
 * 🤝  I'm open to collaborating on Open to collaborations on 2D and 3D indie game projects
 
 
-[![twitter](https://img.shields.io/badge/Link-itch.io-blue%20?style=for-the-badge)](https://paosos123.itch.io/cat-of-duty-ver02) 
+[![twitter](https://img.shields.io/badge/Click-VdoGameplay-blue)](https://drive.google.com/file/d/1dSJx5oArlH5hMtAvP_nlmIxbwJP-ooW3/view?usp=sharing) 
+
 
 
 # MY GAME SHOWCASE 🎮
