@@ -20,12 +20,11 @@ I also work well in teams, and I communicate clearly. I'm always looking to lear
 
 
 ## Hurzana [Work as GameDesign / DEVELOPER / PROGRAMMER]
-This game is 2D-pixel - Endless run multiplayer game. This game has no teams, each player is an enemy and there are also AI dogs as enemies. Survive from them and the last one standing will be the winner.
+This game is 2D-pixel platformer  that you can dash
+![App Screenshot](https://img.itch.zone/aW1hZ2UvNDI3NTExNC8yNTQ4MjYwOS5wbmc=/original/AuTttJ.png)
 
-![App Screenshot](https://drive.google.com/file/d/16xD9RL10u_UvZUtPhqiJ04tS-yAXIlg7/view?usp=sharing)
 
-
-[![twitter](https://img.shields.io/badge/Click-VdoGameplay-blue)](https://img.itch.zone/aW1hZ2UvNDI3NTExNC8yNTQ4MjYwOS5wbmc=/original/AuTttJ.png) 
+[![twitter](https://img.shields.io/badge/Click-VdoGameplay-blue)](https://drive.google.com/file/d/1dSJx5oArlH5hMtAvP_nlmIxbwJP-ooW3/view?usp=sharing) 
 
 [![twitter](https://img.shields.io/badge/GitHub-purple?style=for-the-badge
 )](https://github.com/paosos123/ProjectVindeselVer2)
