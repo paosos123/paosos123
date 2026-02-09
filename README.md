@@ -28,7 +28,7 @@ This game is 2D-pixel - Endless run multiplayer game. This game has no teams, ea
 [![twitter](https://img.shields.io/badge/Click-VdoGameplay-blue)](https://drive.google.com/file/d/1dSJx5oArlH5hMtAvP_nlmIxbwJP-ooW3/view?usp=sharing) 
 
 [![twitter](https://img.shields.io/badge/GitHub-purple?style=for-the-badge
-)](https://github.com/paosos123/MeowProject)
+)](https://github.com/paosos123/ProjectVindeselVer2)
 
 # MY GAME SHOWCASE 🎮
 
