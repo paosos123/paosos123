@@ -25,7 +25,7 @@ This game is 2D-pixel - Endless run multiplayer game. This game has no teams, ea
 ![App Screenshot](https://drive.google.com/file/d/16xD9RL10u_UvZUtPhqiJ04tS-yAXIlg7/view?usp=sharing)
 
 
-[![twitter](https://img.shields.io/badge/Click-VdoGameplay-blue)](https://scontent.fbkk22-1.fna.fbcdn.net/v/t39.30808-6/631306764_2115130442639700_6344409081160823910_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gRLu14zPpAoQ7kNvwEOO6mO&_nc_oc=Adn5RXWHypXp5anl72SJjalZUUAOHpwGgq3j0JIAOcFlxIecVVqFSOvNVKyOda_oUB4&_nc_zt=23&_nc_ht=scontent.fbkk22-1.fna&_nc_gid=owPLqsHTs9xeXAMCfziJog&oh=00_AfsY-S3DjCBr3hulsW8MJiv18EOo-0b3e4aV8wycOdf0ZA&oe=698F153C) 
+[![twitter](https://img.shields.io/badge/Click-VdoGameplay-blue)](https://img.itch.zone/aW1hZ2UvNDI3NTExNC8yNTQ4MjYwOS5wbmc=/original/AuTttJ.png) 
 
 [![twitter](https://img.shields.io/badge/GitHub-purple?style=for-the-badge
 )](https://github.com/paosos123/ProjectVindeselVer2)
