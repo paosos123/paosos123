@@ -19,6 +19,9 @@ I also work well in teams, and I communicate clearly. I'm always looking to lear
 
 
 
+
+
+# MY GAME SHOWCASE 🎮
 ## Hurzana [Work as GameDesign / DEVELOPER / PROGRAMMER]
 This game is 2D-pixel platformer  that you can dash
 ![App Screenshot](https://img.itch.zone/aW1hZ2UvNDI3NTExNC8yNTQ4MjYwOS5wbmc=/original/AuTttJ.png)
@@ -30,7 +33,7 @@ This game is 2D-pixel platformer  that you can dash
 [![twitter](https://img.shields.io/badge/GitHub-purple?style=for-the-badge
 )](https://github.com/paosos123/ProjectVindeselVer2)
 
-# MY GAME SHOWCASE 🎮
+
 
 ## Cat of Duty ver.02 [Work as GameDesign / DEVELOPER / PROGRAMMER]
 This game is 2D-pixel - Endless run multiplayer game. This game has no teams, each player is an enemy and there are also AI dogs as enemies. Survive from them and the last one standing will be the winner.
