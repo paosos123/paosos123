@@ -22,7 +22,7 @@ I also work well in teams, and I communicate clearly. I'm always looking to lear
 ## Hurzana [Work as GameDesign / DEVELOPER / PROGRAMMER]
 This game is 2D-pixel - Endless run multiplayer game. This game has no teams, each player is an enemy and there are also AI dogs as enemies. Survive from them and the last one standing will be the winner.
 
-![App Screenshot](https://img.itch.zone/aW1nLzIxMDgzODYxLmpwZw==/original/p8GDnI.jpg)
+![App Screenshot](https://drive.google.com/file/d/16xD9RL10u_UvZUtPhqiJ04tS-yAXIlg7/view?usp=sharing)
 
 
 [![twitter](https://img.shields.io/badge/Click-VdoGameplay-blue)](https://drive.google.com/file/d/1dSJx5oArlH5hMtAvP_nlmIxbwJP-ooW3/view?usp=sharing) 
